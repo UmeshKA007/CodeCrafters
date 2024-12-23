@@ -1,3 +1,3 @@
 # CodeCrafters
-This is my first Git Repositories
+This is my first Git Repositories.
 Author - Umesh Kumar
